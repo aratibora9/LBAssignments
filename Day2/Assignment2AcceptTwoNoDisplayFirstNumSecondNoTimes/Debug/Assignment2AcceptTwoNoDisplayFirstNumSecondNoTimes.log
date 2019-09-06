@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\lbassignments\assignment2accepttwonodisplayfirstnumsecondnotimes\source.cpp(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+c:\lbassignments\assignment2accepttwonodisplayfirstnumsecondnotimes\source.cpp(42): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+  Assignment2AcceptTwoNoDisplayFirstNumSecondNoTimes.vcxproj -> C:\LBAssignments\Assignment2AcceptTwoNoDisplayFirstNumSecondNoTimes\Debug\Assignment2AcceptTwoNoDisplayFirstNumSecondNoTimes.exe
